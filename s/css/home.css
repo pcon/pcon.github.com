@@ -38,3 +38,11 @@ h2 {
 	width: 49%;
 	float: left;
 }
+
+.feed-item {
+	margin-bottom: 4px;
+}
+
+.author {
+	padding-left: 40px;
+}
