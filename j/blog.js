@@ -1,4 +1,4 @@
-var POST_HOME = 'http://blog.deadlypenguin.com/blog/api/get_recent_posts/?count=4';
+var POST_HOME = 'http://blog.deadlypenguin.com/blog/api/get_recent_posts/?count=3';
 
 var display_posts = function (data) {
 	jQuery.each(data.posts, function (index, value) {
