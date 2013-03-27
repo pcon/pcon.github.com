@@ -1,0 +1,40 @@
+#wrapper {
+	position: relative;
+	padding: 10px 48px 0px 48px;
+	background-color: #fff;
+	width: auto;
+	max-width: 864px;
+	margin: 16px auto 24px auto;
+	height: 560px;
+	-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+ul {
+	margin-left: 25px;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+h2 {
+	color: #c00;
+	font-size: 1.75em;
+	font-weight: bold;
+	border-bottom: 3px solid #ccc;
+	margin-bottom: 4px;
+}
+
+.right {
+	display: inline-block;
+	width: 49%;
+	float: right;
+}
+
+.left {
+	display: inline-block;
+	width: 49%;
+	float: left;
+}

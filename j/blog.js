@@ -11,7 +11,6 @@ var display_posts = function (data) {
 		html = html + '\t\t\t\t</div>';
 
 		jQuery('#blog').append(html);
-		console.log(value);
 	});
 };
 
