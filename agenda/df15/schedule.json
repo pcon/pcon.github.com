@@ -1,0 +1,130 @@
+{
+	"days": [
+		{
+			"date": "2015-09-13",
+			"events": [
+				{
+					"title": "Arrive",
+					"time": "2014-09-13T22:30:00"
+				}
+			]
+		},
+		{
+			"date": "2015-09-14",
+			"events": [
+				{
+					"title": "USF Childrens Hospital Tour",
+					"time": "2015-09-14T14:00:00",
+					"url": ""
+				}
+			]
+		},
+		{
+			"date": "2015-09-15",
+			"events": [
+				{
+					"title": "User Group State of the Union",
+					"time": "2015-09-15T08:30:00",
+					"url": ""
+				},
+				{
+					"title": "Leveraging JavaScript Promises and the Bulk API",
+					"time": "2015-09-15T10:30:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019BGuAAM"
+				},
+				{
+					"title": "IRC IRL 3: The Search For More Money",
+					"time": "2015-09-15T11:30:00",
+					"url": "http://evite.me/Tpj63UuJZp"
+				},
+				{
+					"title": "Intro to Docker: Why It Matters and How To Use It to Build Apps",
+					"time": "2015-09-15T12:00:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q30000001AyPqAAK"
+				},
+				{
+					"title": "jsForce in Action",
+					"time": "2015-09-15T13:30:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019BHXAA2"
+				},
+				{
+					"title": "Salesforce Wave Platform Best Practices",
+					"time": "2015-09-15T16:00:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q30000001AQboAAG"
+				},
+				{
+					"title": "Dinner Reserved",
+					"time": "2015-09-15T18:00:00",
+					"url": ""
+				}
+			]
+		},
+		{
+			"date": "2015-09-16",
+			"events": [
+				{
+					"title": "Community Fun Run",
+					"time": "2015-09-16T06:00:00",
+					"url": ""
+				},{
+					"title": "Beyond Custom Metadata Types",
+					"time": "2015-09-16T09:30:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019kDHAAY"
+				},{
+					"title": "Best Practices for Building Salesforce Apps that Leverage the REST API",
+					"time": "2015-09-16T10:45:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019BFxAAM"
+				},{
+					"title": "Batch Jobs: Beyond the Basics",
+					"time": "2015-09-16T12:15:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019BHNAA2"
+				},{
+					"title": "MVP Event",
+					"time": "2015-09-16T17:30:00",
+					"url": ""
+				}
+			]
+		},
+		{
+			"date": "2015-09-17",
+			"events": [
+				{
+					"title": "Admin Zone",
+					"time": "2015-09-17T08:00:00",
+					"url": ""
+				},
+				{
+					"title": "Building Real-time Dashboards with Salesforce Streaming API",
+					"time": "2015-09-17T10:00:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019BGJAA2"
+				},
+				{
+					"title": "Hands-on Training by MVP: Build Entitlement Processes to reach your SLAs",
+					"time": "2015-09-17T12:00:00",
+					"url": "",
+					"presenter": true
+				},
+				{
+					"title": "Making of Trailhead",
+					"time": "2015-09-17T14:00:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q30000001ASMaAAO"
+				},
+				{
+					"title": "Introduction to ECMAScript 6, the Next Version of JavaScript",
+					"time": "2015-09-17T15:00:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q30000001AL1yAAG"
+				}
+			]
+		},
+		{
+			"date": "2015-09-18",
+			"events": [
+				{
+					"title": "Depart",
+					"time": "2014-09-18T13:30:00",
+					"url": ""
+				}
+			]
+		}
+	]
+}

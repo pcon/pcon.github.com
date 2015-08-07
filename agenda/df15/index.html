@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="agendaApp" ng-controller="AgendaCtrl">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Dreamforce 2015 - Schedule</title>
+
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h1>Dreamforce 2015</h1>
+				</div>
+			</div>
+			<div class="row" ng-show="loading">
+				<div class="col-md-12">
+					<i class="fa fa-circle-o-notch fa-spin"></i> Loading...
+				</div>
+			</div>
+			<div class="row" ng-repeat="day in data.days" ng-show="!loading">
+				<div class="col-md-12">
+					<h2>{{ day.date | date:'longDate'}}</h2>
+				</div>
+				<div class="col-md-12" ng-repeat="event in day.events">
+					{{ event.time | date:'shortTime'}} &mdash; <a href="{{ event.url }}" ng-show="event.url">{{ event.title }}</a><span ng-show="!event.url">{{ event.title }}</span> <span class="badge" ng-show="event.presenter">Presenter</span>
+				</div>
+			</div>
+		</div>
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.20/angular.min.js"></script>
+		<script src="controller.js"></script>
+	</body>
+</html>
