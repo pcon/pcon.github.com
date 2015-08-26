@@ -89,13 +89,9 @@
 			"date": "2015-09-17",
 			"events": [
 				{
-					"title": "Admin Zone",
-					"time": "2015-09-17T08:00:00",
-					"url": ""
-				},{
-					"title": "Building Real-time Dashboards with Salesforce Streaming API",
-					"time": "2015-09-17T10:00:00",
-					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019BGJAA2"
+					"title": "Achieve Ultimate Availability with the new Organization Sync",
+					"time": "2015-09-17T09:30:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q30000001BKrOAAW"
 				},{
 					"title": "Salesforce Developer Keynote",
 					"time": "2015-09-17T10:30:00",
