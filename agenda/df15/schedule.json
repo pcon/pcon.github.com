@@ -28,6 +28,10 @@
 			"date": "2015-09-15",
 			"events": [
 				{
+					"title": "Breakfast Reserved",
+					"time": "2015-09-15T07:15:00",
+					"url": ""
+				},{
 					"title": "User Group State of the Union",
 					"time": "2015-09-15T08:30:00",
 					"url": ""
@@ -71,12 +75,22 @@
 					"time": "2015-09-16T09:30:00",
 					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q30000001AmNTAA0"
 				},{
+					"title": "Developing with Distributed Teams",
+					"time": "2015-09-16T11:00:00",
+					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q30000001Fm3XAAS",
+					"presenter": true
+				},{
 					"title": "Batch Jobs: Beyond the Basics",
 					"time": "2015-09-16T12:15:00",
 					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019BHNAA2"
 				},{
+					"title": "Code Consultations",
+					"time": "2015-09-16T14:00:00",
+					"url": "",
+					"presenter": true
+				},{
 					"title": "Beyond Custom Metadata Types",
-					"time": "2015-09-16T09:30:00",
+					"time": "2015-09-16T16:30:00",
 					"url": "https://success.salesforce.com/Ev_MyAgenda?eventId=a1Q30000000DHQlEAO#/session/a2q300000019kDHAAY"
 				},{
 					"title": "MVP Event",
@@ -116,6 +130,10 @@
 			"date": "2015-09-18",
 			"events": [
 				{
+					"title": "Breakfast Reserved",
+					"time": "2015-09-18T07:30:00",
+					"url": ""
+				},{
 					"title": "Build System Performance Data Analytics Using Wave",
 					"time": "2015-09-18T09:30:00",
 					"url": "https://success.salesforce.com/Ev_Sessions?eventId=a1Q30000000DHQlEAO#/session/a2q300000019kJZAAY"
