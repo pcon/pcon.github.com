@@ -1,0 +1,120 @@
+{
+    "days": [
+        {
+            "date": "2016-10-03",
+            "events": [
+                {
+                    "title": "Arrive",
+                    "time": "2016-10-03T11:30:00"
+                }
+            ]
+        },
+        {
+            "date": "2016-10-04",
+            "events": [
+                {
+                    "title": "Introduction to Apex Code",
+                    "time": "2016-10-04T09:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBdRQAW",
+                    "presenter": true
+                },{
+                    "title": "Admin Meadow Staffing",
+                    "time": "2016-10-04T10:00:00",
+                    "url": ""
+                },{
+                    "title": "A Bug's Life: Apex Debugging Deep Dive",
+                    "time": "2016-10-04T12:30:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBRoQAO"
+                },{
+                    "title": "Baldforce",
+                    "time": "2016-10-04T15:00:00",
+                    "url": "https://www.tfaforms.com/442038"
+                },{
+                    "title": "Fast Simple Unit Tests with ApexMocks using the Stub API",
+                    "time": "2016-10-04T16:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBS8QAO"
+                },{
+                    "title": "Awesome People Party",
+                    "time": "2016-10-04T18:00:00",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2016-10-05",
+            "events": [
+                {
+                    "title": "Community Fun Run",
+                    "time": "2016-10-05T06:00:00",
+                    "url": ""
+                },{
+                    "title": "Advanced Designs for Reusable Lightning Components",
+                    "time": "2016-10-05T16:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBRTQA4"
+                },{
+                    "title": "Dinner Reserved",
+                    "time": "2016-10-05T18:00:00",
+                    "url": ""
+                },{
+                    "title": "TaskRay & Workato: Customer Appreciation Party",
+                    "time": "2016-10-05T21:00:00",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2016-10-06",
+            "events": [
+                {
+                    "title": "Dev Community Breakfast",
+                    "time": "2016-10-06T07:00:00",
+                    "url": ""
+                },{
+                    "title": "Continuous Improvements in Service Availability",
+                    "time": "2016-10-06T08:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000sWK6QAM"
+                },{
+                    "title": "Lightning Components Development Best Practices",
+                    "time": "2016-10-06T10:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBRjQAO"
+                },{
+                    "title": "NerdforceCon16",
+                    "time": "2016-10-06T11:00:00",
+                    "url": "https://www.eventbrite.com/e/nerdforcecon16-rated-e-for-everyone-by-apttus-tickets-27370486863"
+                },{
+                    "title": "Access Any Data Anywhere with the Apex Connector",
+                    "time": "2016-10-06T16:15:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBebQAG"
+                },{
+                    "title": "MVP Volunteering Event",
+                    "time": "2016-10-06T15:00:00",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2016-10-07",
+            "events": [
+                {
+                    "title": "Trailhead Badger Breakfast",
+                    "time": "2016-10-07T09:00:00",
+                    "url": ""
+                },{
+                    "title": "IRC Meetup",
+                    "time": "2016-10-07T12:00:00",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2016-10-08",
+            "events": [
+                {
+                    "title": "Depart",
+                    "time": "2016-10-08T09:40:00",
+                    "url": ""
+                }
+            ]
+        }
+    ]
+}
