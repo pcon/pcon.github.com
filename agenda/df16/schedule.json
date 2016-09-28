@@ -48,6 +48,14 @@
                     "time": "2016-10-05T06:00:00",
                     "url": ""
                 },{
+                    "title": "Mini Hack Help",
+                    "time": "2016-10-05T08:00:00",
+                    "url": ""
+                },{
+                    "title": "Visitor Center",
+                    "time": "2016-10-05T14:00:00",
+                    "url": ""
+                },{
                     "title": "Advanced Designs for Reusable Lightning Components",
                     "time": "2016-10-05T16:00:00",
                     "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBRTQA4"
@@ -82,6 +90,10 @@
                     "time": "2016-10-06T11:00:00",
                     "url": "https://www.eventbrite.com/e/nerdforcecon16-rated-e-for-everyone-by-apttus-tickets-27370486863"
                 },{
+                    "title": "IRC Meetup",
+                    "time": "2016-10-06T12:00:00",
+                    "url": ""
+                },{
                     "title": "Access Any Data Anywhere with the Apex Connector",
                     "time": "2016-10-06T16:15:00",
                     "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBebQAG"
@@ -100,8 +112,8 @@
                     "time": "2016-10-07T09:00:00",
                     "url": ""
                 },{
-                    "title": "IRC Meetup",
-                    "time": "2016-10-07T12:00:00",
+                    "title": "MVP Q&A",
+                    "time": "2016-10-07T14:00:00",
                     "url": ""
                 }
             ]
