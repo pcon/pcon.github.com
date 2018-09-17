@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="agendaApp" ng-controller="AgendaCtrl">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Dreamforce 2018 - Schedule</title>
+
+		<link href="/s/css/font-awesome.min.css" rel="stylesheet">
+		<link href="/s/css/bootstrap.min.css" rel="stylesheet">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h1>Dreamforce 2018</h1>
+				</div>
+			</div>
+			<div class="row" ng-show="loading">
+				<div class="col-md-12">
+					<i class="fa fa-circle-o-notch fa-spin"></i> Loading...
+				</div>
+			</div>
+				<div class="row" ng-repeat="day in data.days" ng-show="!loading">
+				<div class="col-md-12">
+					<h2>{{ day.date | date:'longDate'}}</h2>
+				</div>
+				<div class="col-md-12" ng-repeat="event in day.events">
+					{{ event.time | date:'shortTime'}} &mdash; <a href="{{ event.url }}" ng-show="event.url">{{ event.title }}</a><span ng-show="!event.url">{{ event.title }}</span> <span class="badge" ng-show="event.presenter">Presenter</span>
+				</div>
+			</div>
+		</div>
+
+		<script src="/j/jquery.min.js"></script>
+		<script src="/j/bootstrap.min.js"></script>
+		<script src="/j/angular.min.js"></script>
+		<script src="controller.js"></script>
+	</body>
+</html>
