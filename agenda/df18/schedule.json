@@ -15,7 +15,7 @@
 		},
 		{
 			"date": "2018-09-24",
-			"event": [
+			"events": [
 				{
 					"title": "Volunteer event",
 					"time": "2018-09-24T13:30:00"
@@ -24,7 +24,7 @@
 		},
 		{
 			"date": "2018-09-25",
-			"event": [
+			"events": [
 				{
 					"title": "Golden Gate Bridge Run",
 					"time": "2018-09-25T06:00:00",
@@ -101,12 +101,12 @@
 				},
 				{
 					"title": "Close Cases Faster with Omni-Channel Skills-Based Routing",
-					"time": "2018-09-26T:14:30:00",
+					"time": "2018-09-26T14:30:00",
 					"url": "https://success.salesforce.com/sessions?eventId=a1Q3A00001XoCSUUA3#/session/a2q3A000001WZScQAO"
 				},
 				{
 					"title": "Banish the Bugs with the Apex Replay Debugger",
-					"time": "2018-09-26T:15:00:00",
+					"time": "2018-09-26T15:00:00",
 					"url": "https://success.salesforce.com/sessions?eventId=a1Q3A00001XoCSUUA3#/session/a2q3A000001WZTbQAO"
 				},
 				{
